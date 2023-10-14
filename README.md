@@ -4,10 +4,11 @@
 
 <div align="center">
 
-  <h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Nabla&size=30&duration=2500&pause=999&color=9431F7&center=true&vCenter=true&random=true&width=438&lines=BeyondFlare+Bypasser+is+here!" alt="4L3XBB" /></h1> <br />
-  
-  
-  <br />
+  <h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Nabla&size=30&duration=2500&pause=999&color=9431F7&center=true&vCenter=true&random=true&width=438&lines=BeyondFlare+Bypasser+is+here!" alt="4L3XBB" /></h1>
+
+  <img width="50%" src="./images/trakto-line.gif"/><br>
+
+  <a href="https://github.com/4l3xBB"><img width="25%" src="./images/4l3xBBwb.gif" alt="4L3XBB"/></a><br/>
   
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux" /></a>
   <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Distro-Ubuntu-orange?style=flat&logo=ubuntu" /></a>
