@@ -6,7 +6,7 @@
 
   <h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Nabla&size=30&duration=2500&pause=999&color=9431F7&center=true&vCenter=true&random=true&width=438&lines=BeyondFlare+Bypasser+is+here!" alt="4L3XBB" /></h1>
 
-  <img width="50%" src="./images/trakto-line.gif"/><br>
+  <img width="50%" src="./images/ine.gif"/>
 
   <a href="https://github.com/4l3xBB"><img width="25%" src="./images/4l3xBBwb.gif" alt="4L3XBB"/></a><br/>
   
@@ -20,6 +20,8 @@
   
   <a href="https://github.com/4l3xBB"><img src="https://img.shields.io/github/followers/4l3xBB?label=Github&style=social" /></a>
   <br />
+
+  <img width="60%" height="550px" src="./images/beyondflare_bash.png" alt="BeyondFlare">
   
   <br/>
   
