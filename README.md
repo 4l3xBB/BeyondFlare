@@ -6,21 +6,20 @@
 
   <h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Nabla&size=30&duration=2500&pause=999&color=9431F7&center=true&vCenter=true&random=true&width=438&lines=BeyondFlare+Bypasser+is+here!" alt="4L3XBB" /></h1>
 
-  <img width="50%" src="./images/ine.gif"/>
-
+  <img height="5px" width="75%" src="images/line-rainbow.gif" /><br>
+  
   <a href="https://github.com/4l3xBB"><img width="25%" src="./images/4l3xBBwb.gif" alt="4L3XBB"/></a><br/>
   
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux" /></a>
   <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Distro-Ubuntu-orange?style=flat&logo=ubuntu" /></a>
   <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Web%20Application%20Firewall-CloudFlare-orange?style=flat&logo=cloudflare" /></a>
-<img alt="Static Badge" src="https://img.shields.io/badge/BeyondFlare-InfoSec%20Tool-purple?logo=codechef&labelColor=grey&color=purple">
-
-  
-  <br />
+<img alt="Static Badge" src="https://img.shields.io/badge/BeyondFlare-InfoSec%20Tool-purple?logo=codechef&labelColor=grey&color=purple"><br>
   
   <a href="https://github.com/4l3xBB"><img src="https://img.shields.io/github/followers/4l3xBB?label=Github&style=social" /></a>
   <br />
 
+  <p><b>Useful Tool to try Bypass CloudFlare Proxies ☁️ and Get Origin IP Server 🖥️<b></p><br>
+  
   <img width="60%" height="550px" src="./images/beyondflare_bash.png" alt="BeyondFlare">
   
   <br/>
