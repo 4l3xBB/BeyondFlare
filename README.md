@@ -18,6 +18,9 @@
   <a href="https://github.com/4l3xBB"><img src="https://img.shields.io/github/followers/4l3xBB?label=Github&style=social" /></a>
   <br />
 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> &nbsp;&nbsp;<br>
+
   <p><b>Useful Tool to try Bypass CloudFlare Proxies ☁️ and Get Origin IP Server 🖥️<b></p><br>
   
   <img width="60%" height="550px" src="./images/beyondflare_bash.png" alt="BeyondFlare">
