@@ -21,13 +21,17 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> &nbsp;&nbsp;<br>
 
+   <img src="https://readme-typing-svg.demolab.com/?lines=API%20Resources;Censys;CRT.SH;IPInfo&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+
   <p><b>Useful Tool to try Bypass CloudFlare Proxies ☁️ and Get Origin IP Server 🖥️<b></p><br>
   
   <img width="60%" height="550px" src="./images/beyondflare_bash.png" alt="BeyondFlare">
   
   <br/>
   
-  <p width="20px"><b>Donation for project development</p></b>
-   <a href="https://www.buymeacoffee.com/4l3xBB"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=4l3xBB&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a><br />
+   <a href="https://www.buymeacoffee.com/4l3xBB"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=4l3xBB&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>&nbsp;&nbsp;&nbsp;<img width="5%" src="images/laptop.gif" /><br>
+  <img height="5px" width="75%" src="images/line-rainbow.gif" />
+  <img height="5px" width="75%" src="images/line-rainbow.gif" />
+  <img height="5px" width="75%" src="images/line-rainbow.gif" />
     
 </div>
