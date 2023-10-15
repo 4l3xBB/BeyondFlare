@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
 
-set -o errexit  # Stop Script if Command Error
-set -o pipefail # Stop Script if Command Pipe fails
-
 ################################################################
 ################################################################
 
@@ -238,8 +235,6 @@ get_subdomains(){
 
 get_ips(){
 
-    ips=()
-
     for i in "${subdomains[@]}"; do
 
             mapfile -t -O "${#ips[@]}" ips < <(dig "${i}" +short | grep -iPam 1 "${ip_regex}") 
@@ -332,8 +327,6 @@ if $d_flag && [[ ${d_value} =~ $domain_regex ]] && ! test -z "${ip_address}"; th
     mapfile -t ns < <(dig "${d_value}" ns +short | grep -viaP '(^\d{1,3}(\.\d{1,3}){3})|(^\w{0,4}(:\w{0,4})+)') # Domain Nameservers Array
 
     mapfile -t mx < <(dig "${d_value}" mx +short | grep -viaP '(^\d{1,3}(\.\d{1,3}){3})|(^\w{0,4}(:\w{0,4})+)' | grep -oiPa '\d{0,4}\s\K.*') # Domain MX Array
-
-    mx_ip=()
 
     for i in "${mx[@]}"; do
 
