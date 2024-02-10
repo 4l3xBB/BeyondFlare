@@ -301,8 +301,8 @@ cf_proxy="Disabled"
 
 # CENSYS
 
-CENSYS_API_ID="64de311c-b142-4f84-8631-a35559e37adb"
-CENSYS_API_KEY="YKLpsWGAKOt3tb4F47lGvks8baNuYezJ"
+CENSYS_API_ID=""
+CENSYS_API_KEY=""
 
 check_deps
 
