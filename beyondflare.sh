@@ -165,7 +165,7 @@ installed_and_executable(){
 
 check_deps(){
 
-      local deps=(jq curl atop)
+      local deps=(jq curl)
 
       for i in "${deps[@]}"; do
 
